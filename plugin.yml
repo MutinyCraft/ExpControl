@@ -1,0 +1,5 @@
+name: ExpControl
+main: com.mutinycraft.jigsaw.ExpControl.ExpControl
+version: 1.1
+author: Jigsaw
+description: Custom experience drops.

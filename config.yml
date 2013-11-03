@@ -1,0 +1,6 @@
+Nether-Name: 'world_nether'
+
+Blocked-Worlds:
+  - 'adventure'
+  - 'main'
+  - 'world'
